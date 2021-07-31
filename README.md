@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
   
 
-### 현재는 브론즈이지만, 1일 1커밋으로 성장중~
+### 1일 1커밋중
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwpgjs0723)](https://solved.ac/dlwpgjs0723/)
