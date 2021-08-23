@@ -9,7 +9,7 @@ Languages and Tools (studying):
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=Apache_Hive&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=Hive&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
 
 
