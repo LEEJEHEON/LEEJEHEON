@@ -15,7 +15,10 @@ Languages and Tools (studying):
 
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJEHEON&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwpgjs0723)](https://solved.ac/dlwpgjs0723/)
+
+
+Recording medium  
+- tstory blog : https://jerrys-ai-lab.tistory.com/
