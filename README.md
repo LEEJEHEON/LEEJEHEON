@@ -25,6 +25,6 @@ Languages and Tools (studying):
 
 --------------------
 Recording
-- tstory blog : https://jerrys-ai-lab.tistory.com/
+tstory blog : https://jerrys-ai-lab.tistory.com/  
 
-</
+</div>
