@@ -24,7 +24,7 @@ Languages and Tools (studying):
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwpgjs0723)](https://solved.ac/dlwpgjs0723/)
 
 --------------------
-Recording
+Recording  
 tstory blog : https://jerrys-ai-lab.tistory.com/  
 
 </div>
