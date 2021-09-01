@@ -17,7 +17,7 @@ Languages and Tools (studying):
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>  
 
 -----------------  
-license   
+License   
 정보처리기사 ● 정보처리기능사 ● 컴활 ● 워드 ● GTQ
 
 
