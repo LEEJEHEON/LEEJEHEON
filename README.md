@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 My name is jeheonlee.  
-I'm about to graduate from school, and I'm working for a job.  
 I have a job related to the database, and I am studying about the database.  
 
 ----------------
@@ -29,6 +28,6 @@ I have a job related to the database, and I am studying about the database.
 
 --------------------
 ## Recording
-tstory blog : https://jerrys-ai-lab.tistory.com/  
+tistory blog : https://jerrys-ai-lab.tistory.com/  
 
 </div>
