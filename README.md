@@ -17,7 +17,7 @@ I have a job related to the database, and I am studying about the database.
 
 -----------------  
 ## License
-정보처리기사 ● 정보처리기능사 ● 컴활 ● 워드 ● GTQ
+SQLD ●정보처리기사 ● 정보처리기능사 ● 컴활 ● 워드 ● GTQ
 
 
 -----------------
