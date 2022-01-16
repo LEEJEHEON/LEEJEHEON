@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 My name is jeheonlee.  
-I have a job related to the database, and I am studying about the database.  
+I have a job related to the database, and I am studying about the Database and Java.  
 
 ----------------
 
