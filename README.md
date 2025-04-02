@@ -1,7 +1,6 @@
 <div align="center">
   
-## Hi there 👋👋 
-## I'm Jerry (korean name : Jeheon Lee)
+## Hi there 👋👋 <br> I'm Jerry (korean name : Jeheon Lee)
 
 ## Languages and Tools :
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
