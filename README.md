@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ## Languages and Tools :
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -22,4 +22,4 @@ SQLD ●정보처리기사 ● 정보처리기능사 ● 컴활 ● 워드 ● G
 ## Recording
 tistory blog : https://jerrys-ai-lab.tistory.com/  
 
-</center>
+</div>
