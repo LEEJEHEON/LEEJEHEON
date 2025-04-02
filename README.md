@@ -1,4 +1,5 @@
 <div align="center">
+  
 ## Hi there 👋👋 
 ## I'm Jerry (korean name : Jeheon Lee)
 
@@ -10,7 +11,7 @@
 
 
 -----------------  
-## License
+## License :
 SQLD ●정보처리기사 ● 정보처리기능사 ● 컴활 ● 워드 ● GTQ
 
 
@@ -21,7 +22,7 @@ SQLD ●정보처리기사 ● 정보처리기능사 ● 컴활 ● 워드 ● G
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwpgjs0723)](https://solved.ac/dlwpgjs0723/)
 
 --------------------
-## Recording
+## Record : 
 tistory blog : https://jerrys-ai-lab.tistory.com/  
 
 </div>
